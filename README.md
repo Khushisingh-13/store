@@ -61,10 +61,3 @@ npm run dev
 
 <img width="585" height="390" alt="image" src="https://github.com/user-attachments/assets/bde1ea54-83e8-4da4-93fa-6c9edd2b6645" />
 
-## 📬 Contact
-Diptanil Sarkar
-Email: diptanilsarkar98@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/diptanilsarkar/
-
-Project Link: https://ecommerce-f-ashy.vercel.app/
